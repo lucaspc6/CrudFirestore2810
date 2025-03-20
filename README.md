@@ -1,4 +1,4 @@
-# FirestoreCRUD
+# Firestore CRUD
 
 Este repositório contém um projeto de aplicativo Android desenvolvido em Kotlin que implementa operações CRUD (Create, Read, Update, Delete) utilizando o Firebase Firestore como banco de dados. O projeto está estruturado para fornecer uma base sólida para desenvolvedores que desejam integrar o Firestore em suas aplicações móveis.
 
